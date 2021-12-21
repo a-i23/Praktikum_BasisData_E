@@ -3,3 +3,6 @@ UPDATE lokasi SET nama_lokasi = 'Kota Banjarmasin' WHERE id = 1;
 UPDATE lokasi SET nama_lokasi = 'Kota Banjarbaru' WHERE id = 2;
 
 UPDATE lokasi SET nama_lokasi = 'Kabupaten Gambut' WHERE id = 3;
+
+
+UPDATE jabatan SET nama_jabatan = 'Magang' WHERE jabatan.id = 5;
